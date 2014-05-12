@@ -7,11 +7,11 @@ require "ocd_theme_admin_genius/version"
 Gem::Specification.new do |s|
   s.name        = "ocd_theme_admin_genius"
   s.version     = OcdThemeAdminGenius::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of OcdThemeAdminGenius."
-  s.description = "TODO: Description of OcdThemeAdminGenius."
+  s.authors     = ["Jeremy Ward"]
+  s.email       = ["jeremy.ward@digital-ocd.com"]
+  s.homepage    = "oc-digital.co"
+  s.summary     = "OC Digital Admin Theme: Genius"
+  s.description = "OC Digital Admin Theme: Genius"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
