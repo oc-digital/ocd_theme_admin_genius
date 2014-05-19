@@ -48,7 +48,7 @@
 }
 
 .editableform-loading {
-    background: url('/assets/client_theme/loading.gif') center center no-repeat;
+    background: url('/assets/ocd_theme_admin_genius/loading.gif') center center no-repeat;
     height: 25px;
     width: auto;
     min-width: 25px;
@@ -116,7 +116,7 @@
 
 /* IOS-style clear button for text inputs */
 .editable-clear-x {
-   background: url('/assets/client_theme/clear.png') center center no-repeat;
+   background: url('/assets/ocd_theme_admin_genius/clear.png') center center no-repeat;
    display: block;
    width: 13px;
    height: 13px;
