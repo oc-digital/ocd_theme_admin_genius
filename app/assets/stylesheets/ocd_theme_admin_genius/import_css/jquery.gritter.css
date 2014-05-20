@@ -61,7 +61,7 @@
 	cursor:pointer;
 	width:12px;
 	height:12px;
-	background: url(/assets/client_theme/close-button-white.png);
+	background: url(/assets/ocd_theme_admin_genius/close-button-white.png);
 	opacity: .6;
 
 }
@@ -102,7 +102,7 @@
 }
 
 .gritter-light .gritter-close {
-	background: url(/assets/client_theme/close-button.png);
+	background: url(/assets/ocd_theme_admin_genius/close-button.png);
 }
 
 

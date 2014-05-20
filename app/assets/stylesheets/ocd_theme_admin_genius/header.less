@@ -6,6 +6,7 @@
 	border: none;
 	background: @darkGrey;
 	.border-radius;
+	z-index: 2;
 	
 	a {
 		color: #7b7b7b;
@@ -75,10 +76,12 @@
 	}
 }
 
-a.navbar-brand {
+.navbar-brand {
 	background: darken(@darkGrey, 5%);
 	text-align: center;
-	padding: 9px 0 10px 0 !important;
+	height: 40px;
+	line-height: 40px;
+	padding: 0;
 	
 	span {
 		font-family: 'Kaushan Script', cursive;
